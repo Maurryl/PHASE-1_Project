@@ -1,0 +1,65 @@
+{
+    "images": [
+      {
+        "id": 1,
+        "url": "image1.jpg",
+        "title": "Image 1",
+        "tags": ["nature", "landscape"]
+      },
+      {
+        "id": 2,
+        "url": "image2.jpg",
+        "title": "Image 2",
+        "tags": ["city", "urban"]
+      },
+      {
+        "id": 3,
+        "url": "image3.jpg",
+        "title": "Image 3",
+        "tags": ["people", "team"]
+      },
+      {
+        "id": 4,
+        "url": "image4.jpg",
+        "title":"Image 4",
+        "tags": ["animals", "dog"]
+      },
+      {
+        "id": 5,
+        "url": "image5.jpg",
+        "title":"Image 5",
+        "tags": ["nature", "hills"]
+      },
+      {
+        "id": 6,
+        "url": "image6.jpg",
+        "title":"Image 6",
+        "tags": ["manmade", "ice arch"] 
+      },
+      {
+        "id": 7,
+        "url": "image7.jpg",
+        "title":"Image 7",
+        "tags": ["nature","waterfall"]
+      },
+      {
+        "id": 8,
+        "url": "image8.jpg",
+        "title":"Image 8",
+        "tags": ["people", "hiking"]
+      },
+    {
+        "id": 9,
+        "url": "image9.jpg",
+        "title":"Image 9",
+        "tags": ["animals", "horse"]
+    },
+    {
+        "id": 10,
+        "url": "image10.jpg",
+        "title":"Image 10",
+        "tags": ["manmade", "yatch"]
+    }
+
+    ]
+  }

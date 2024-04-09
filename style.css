@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(49, 235, 173);
+}
+html{
+    scroll-behavior: smooth;
+}
+#upload {
+    margin-bottom: 10px;
+  }
+  
+  #gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .gallery-image {
+    width: 150px;
+    height: auto;
+    cursor: pointer;
+  }
+  
+  button {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  input[type="text"] {
+    margin-right: 10px;
+  }
+  
+  input[type="file"] {
+    margin-bottom: 10px;
+  }
+  
+  /* Additional styles for search form */
+  form {
+    margin-bottom: 20px;
+  }
+  
+  /* Styles for fullscreen button */
+  #fullscreen-btn {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for slideshow button */
+  #slideshow-btn {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for save order button */
+  #save-order-btn {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for search/reset buttons */
+  #search-btn,
+  #reset-btn {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  #reset-btn {
+    background-color: #dc3545;
+  }
+  
+  #search-btn:hover,
+  #reset-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Styles for input fields */
+  input[type="text"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  /* Styles for buttons */
+  button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  /*Styles for footer */
+
+  footer{
+    background-color: rgb(8, 8, 8);
+    padding: 40px;
+    color: white;
+}
+ 
+
+
+
+
+
+
+
+
+
+   
+    
