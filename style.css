@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: rgb(49, 235, 173);
+    background-color: rgb(47, 238, 173);
 }
 html{
     scroll-behavior: smooth;
@@ -80,7 +80,7 @@ html{
   #reset-btn:hover {
     background-color: #0056b3;
   }
-  
+
   /* Styles for input fields */
   input[type="text"] {
     padding: 5px;
